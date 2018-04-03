@@ -1,0 +1,25 @@
+{
+  "name": "easy-comms",
+  "version": "0.0.0-alpha.1",
+  "description": "Abstraction for fetch API, in order to simplify front end code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dewwwald/easy-comms.git"
+  },
+  "keywords": [
+    "http",
+    "https",
+    "front-end",
+    "fetch"
+  ],
+  "author": "dewwwald",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dewwwald/easy-comms/issues"
+  },
+  "homepage": "https://github.com/dewwwald/easy-comms#readme"
+}
